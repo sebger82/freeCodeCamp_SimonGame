@@ -9,3 +9,6 @@ background-image: linear-gradient(220deg, #4CB101 20%, #B5367F 80%);
     height: 100px;
     width: 100px;
 }
+#game_board {
+    display: flex;
+}
